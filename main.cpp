@@ -7,6 +7,7 @@
 int main() {
 	int sum = 0;
 	int idx;
+	int git = 0;
 	float tmp;
 	srand(time(NULL));
 	int arr[10] = { 0 };
