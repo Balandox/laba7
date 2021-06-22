@@ -1,0 +1,11 @@
+#ifndef _NODE_H_
+#define _NODE_H_
+class Node
+{
+private:
+	int val;
+	Node* next;
+public:
+	friend class linked_list;
+};
+#endif 
